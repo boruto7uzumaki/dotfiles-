@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/55618993/185190777-cac30dd8-85dd-4110-b02f-059a42c291d0.png)
+![image](https://user-images.githubusercontent.com/55618993/185191728-076e7bde-32df-4850-aa89-61caab06d861.png)
 
 # dotfiles-
 install all the stuff u need
