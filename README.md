@@ -1,7 +1,7 @@
 # dotfiles-
 install all the stuff u need
 
-yay -S bspwm sxhkd zathura cmus zathura-pdf-poppler firefox rofi nvim
+yay -S bspwm sxhkd zathura cmus zathura-pdf-poppler firefox rofi nvim feh
 
 Make config directory
 
