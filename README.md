@@ -11,4 +11,10 @@ mkdir ~/.config/sxhkd
 
 mkdir ~/.config/nvim
 
+for cool retro term
+- open settings
+- click on import 
+- select the ez.json file
+- use the theme
+
 ./script.sh
