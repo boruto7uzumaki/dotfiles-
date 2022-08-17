@@ -17,4 +17,6 @@ for cool retro term
 - select the ez.json file
 - use the theme
 
+chmod +x script.sh
+
 ./script.sh
