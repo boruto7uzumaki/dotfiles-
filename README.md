@@ -19,4 +19,4 @@ for cool retro term
 
 chmod +x script.sh
 
-./script.sh
+sudo bash script.sh
